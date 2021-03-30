@@ -1,5 +1,5 @@
 # ADOO_OOMetricsInvestigation_Team1
-The second homework about the OO metrics :)
+The second ADOO homework :)
 
 Members
 
