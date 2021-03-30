@@ -1,0 +1,44 @@
+Clase: Persona
+
+WMC = 0 | DIT = 0 | NOC = 2
+
+Metodos - COM
+
+
+Clase: Tio
+
+WMC = 7 | DIT = 1 | NOC = 1
+
+Metodos - COM
+funcion1 - 7
+
+
+Clase: Estudiante
+
+WMC = 0 | DIT = 1 | NOC = 2
+
+Metodos - COM
+estudiar - 0
+
+
+Clase: Carlos
+
+WMC = 0 | DIT = 2 | NOC = 0
+
+Metodos - COM
+
+
+Clase: Sofia
+
+WMC = 0 | DIT = 2 | NOC = 0
+
+Metodos - COM
+
+
+Clase: Mesme
+
+WMC = 0 | DIT = 2 | NOC = 0
+
+Metodos - COM
+
+

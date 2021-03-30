@@ -1,0 +1,51 @@
+Clase: Player
+
+WMC = 0 | DIT = 0 | NOC = 1
+
+Metodos - COM
+
+
+Clase: FootballPlayer
+
+WMC = 6 | DIT = 1 | NOC = 4
+
+Metodos - COM
+funcion1 - 5
+funcion2 - 1
+
+
+Clase: Midfielder
+
+WMC = 0 | DIT = 2 | NOC = 0
+
+Metodos - COM
+
+
+Clase: Atacker
+
+WMC = 0 | DIT = 2 | NOC = 0
+
+Metodos - COM
+
+
+Clase: Defender
+
+WMC = 0 | DIT = 2 | NOC = 0
+
+Metodos - COM
+
+
+Clase: Goalkeeper
+
+WMC = 0 | DIT = 2 | NOC = 1
+
+Metodos - COM
+
+
+Clase: ochoa
+
+WMC = 0 | DIT = 3 | NOC = 0
+
+Metodos - COM
+
+
