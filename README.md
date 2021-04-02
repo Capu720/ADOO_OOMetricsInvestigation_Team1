@@ -22,6 +22,6 @@ Then, run the file in the CMD, after Metricas, you can add some files java like 
 
 java AnalizadorMetricas Player.java Persona.java ...
 
-In the folder "Reportes", you can see the analysis of you java files
+In the same folder that you are running the java class,you can find the txt with the report of your java file
 
 Enjoy it :)
