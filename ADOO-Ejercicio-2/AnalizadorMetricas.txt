@@ -1,0 +1,49 @@
+Reporte del archivo: AnalizadorMetricas
+
+Clase: AnalizadorMetricas
+
+WMC = 51 | DIT = 0 | NOC = 0
+
+Metodo - Complejidad del metodo
+AnalizadorMetricas - 0
+analizarArchivo - 2
+buscarClases - 2
+crearContadorHijos - 1
+crearArbol - 3
+analizarClase - 2
+buscarMetodos - 7
+analizarMetodo - 7
+descartarClase - 5
+colocarFichero - 2
+generarReporte - 2
+reportePorClase - 1
+esSentencia - 11
+calcularWMC - 1
+determinarDIT - 3
+main - 2
+
+
+Clase: Prueba1
+
+WMC = 5 | DIT = 1 | NOC = 0
+
+Metodo - Complejidad del metodo
+funcion1 - 0
+funcion2 - 5
+
+
+Clase: ClasePrueba2
+
+WMC = 0 | DIT = 0 | NOC = 2
+
+Metodo - Complejidad del metodo
+funcion3 - 0
+
+
+Clase: ClasePrueba3
+
+WMC = 0 | DIT = 1 | NOC = 0
+
+Metodo - Complejidad del metodo
+
+

@@ -1,0 +1,95 @@
+Reporte del archivo: Persona
+
+Clase: Persona
+
+WMC = 0 | DIT = 0 | NOC = 3
+
+Metodo - Complejidad del metodo
+
+
+Clase: Tio
+
+WMC = 7 | DIT = 1 | NOC = 1
+
+Metodo - Complejidad del metodo
+funcion1 - 7
+
+
+Clase: Estudiante
+
+WMC = 0 | DIT = 1 | NOC = 2
+
+Metodo - Complejidad del metodo
+estudiar - 0
+
+
+Clase: Carlos
+
+WMC = 0 | DIT = 2 | NOC = 1
+
+Metodo - Complejidad del metodo
+
+
+Clase: Sofia
+
+WMC = 0 | DIT = 2 | NOC = 0
+
+Metodo - Complejidad del metodo
+
+
+Clase: Mesme
+
+WMC = 0 | DIT = 2 | NOC = 0
+
+Metodo - Complejidad del metodo
+
+
+Clase: ClaseFuera
+
+WMC = 2 | DIT = 1 | NOC = 0
+
+Metodo - Complejidad del metodo
+ClaseFuera - 1
+hola - 1
+
+
+Clase: Anidada1
+
+WMC = 0 | DIT = 3 | NOC = 1
+
+Metodo - Complejidad del metodo
+numero1 - 0
+
+
+Clase: Anidada2
+
+WMC = 0 | DIT = 4 | NOC = 1
+
+Metodo - Complejidad del metodo
+numero2 - 0
+
+
+Clase: Anidada3
+
+WMC = 0 | DIT = 5 | NOC = 1
+
+Metodo - Complejidad del metodo
+numero3 - 0
+
+
+Clase: Anidada4
+
+WMC = 0 | DIT = 6 | NOC = 1
+
+Metodo - Complejidad del metodo
+numero4 - 0
+
+
+Clase: Anidada5
+
+WMC = 0 | DIT = 7 | NOC = 0
+
+Metodo - Complejidad del metodo
+numero5 - 0
+
+

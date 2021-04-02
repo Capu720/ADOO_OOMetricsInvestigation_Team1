@@ -1,0 +1,60 @@
+Reporte del archivo: Player
+
+Clase: Player
+
+WMC = 0 | DIT = 0 | NOC = 1
+
+Metodo - Complejidad del metodo
+
+
+Clase: FootballPlayer
+
+WMC = 6 | DIT = 1 | NOC = 4
+
+Metodo - Complejidad del metodo
+funcion1 - 5
+funcion2 - 1
+
+
+Clase: Midfielder
+
+WMC = 0 | DIT = 2 | NOC = 0
+
+Metodo - Complejidad del metodo
+
+
+Clase: Atacker
+
+WMC = 0 | DIT = 2 | NOC = 0
+
+Metodo - Complejidad del metodo
+
+
+Clase: Defender
+
+WMC = 0 | DIT = 2 | NOC = 0
+
+Metodo - Complejidad del metodo
+
+
+Clase: HijoOchoa
+
+WMC = 0 | DIT = 4 | NOC = 0
+
+Metodo - Complejidad del metodo
+
+
+Clase: Ochoa
+
+WMC = 0 | DIT = 3 | NOC = 1
+
+Metodo - Complejidad del metodo
+
+
+Clase: Goalkeeper
+
+WMC = 0 | DIT = 2 | NOC = 1
+
+Metodo - Complejidad del metodo
+
+
